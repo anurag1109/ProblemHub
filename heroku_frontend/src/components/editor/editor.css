@@ -1,0 +1,15 @@
+.ql-syntax{
+    background-color: #23241f;
+    color: #f8f8f2;
+    overflow: visible;
+    white-space: pre-wrap;
+    margin-bottom: 5px !important;
+    margin-top: 5px !important;
+    padding: 5px 10px !important;
+    border-radius: 3px;
+}
+code{
+    padding: 1px 4px;
+    border-radius: 3px;
+
+}
